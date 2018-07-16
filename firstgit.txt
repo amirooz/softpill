@@ -1,3 +1,3 @@
 This is the first time I am using git. 
-I have complete all of the proccess and it's working good.
+I have complete all of the proccess and it's working.
 Thank You.
