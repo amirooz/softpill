@@ -1,1 +1,3 @@
-This is the first time I am using git. Thank You.
+This is the first time I am using git. 
+I have complete all of the proccess and it's working good.
+Thank You.
